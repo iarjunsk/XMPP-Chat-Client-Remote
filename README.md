@@ -4,7 +4,7 @@
 
 ##### Note: This requires Chrome Browser inorder to use WebSQL. Chatlogs are maintained in the browsers local SQL db
 
-#### What New:
+#### What New ?
 
     1. Supports remote XMPP server.
     2. In band Registration to remote XMPP server.
