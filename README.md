@@ -14,7 +14,7 @@
 This is XMPP chat Client build using ionic Cordova. Integrated Local SQL database for storing the chat message .
 
 Read my article for setting Remote XMPP server : 
-[How to connect to Remote Database](http://www.arjunsk.com/uncategorized/ionic-xmpp-client-sql-db-part-5/)
+[How to connect to Remote Database](http://www.arjunsk.com/html5/ionic-xmpp-client-sql-db-part-5/)
 
 For the complete tutorial series on how to build this app, Please visit 
 
